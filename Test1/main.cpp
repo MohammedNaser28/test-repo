@@ -4,7 +4,10 @@
 #include "My functions.h"
 int main()
 {
+<<<<<<< HEAD:Test1/main.cpp
 	cout << name() << '\n';
+=======
+>>>>>>> 35f8d82c5dc7bae92138eb3f136fa0bb3a785abc:Test1/Test1.cpp
 	greeting();
 }
 

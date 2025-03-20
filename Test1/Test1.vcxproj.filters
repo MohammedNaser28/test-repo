@@ -21,9 +21,12 @@
     <ClCompile Include="My functions.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="dependencies.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+=======
+>>>>>>> 35f8d82c5dc7bae92138eb3f136fa0bb3a785abc
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
