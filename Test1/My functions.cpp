@@ -6,3 +6,8 @@ string name(string name)
 void greeting() {
 	cout << "Hello world";
 }
+
+int add(int a, int b)
+{
+	return a + b;
+}
