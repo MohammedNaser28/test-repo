@@ -10,15 +10,15 @@ using namespace std;
 // Write A struct for admin 
 // Write A struct for user ( ID, Name , number of recipe he add to history) Feel free to add more 
 
-// Write a function to  show structs 
+// Write a function to  show structs
 
 string name(string name="mohammed");
 void greeting();
 int add(int, int);
 
-
-
 // Write A function to add two integares
+int add(int a, int b);
 
 // Write A function to write from a file
+
 
