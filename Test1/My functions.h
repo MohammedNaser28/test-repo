@@ -19,6 +19,8 @@ int add_qawi(int, int);
 // Write A function to add two integares
 int add_hamed(int, int);
 
+int add_Eid(int, int);
+
 // Write A function to write from a file
 
 

@@ -7,7 +7,7 @@ void greeting() {
 	cout << "Hello world";
 }
 
-int add_eid(int a, int b)
+int add_Eid(int a, int b)
 {
 	return a + b;
 }
