@@ -6,7 +6,6 @@ int main()
 {
 	cout << name() << '\n';
 	greeting();
-	cout << sum(2, 3)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

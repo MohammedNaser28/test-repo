@@ -14,10 +14,10 @@ using namespace std;
 
 string name(string name="mohammed");
 void greeting();
-int add(int, int);
+int add_qawi(int, int);
 
 // Write A function to add two integares
-int add(int a, int b);
+int add_hamed(int, int);
 
 // Write A function to write from a file
 
