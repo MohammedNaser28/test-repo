@@ -14,6 +14,7 @@ using namespace std;
 
 string name(string name="mohammed");
 void greeting();
+int add(int, int);
 
 
 
