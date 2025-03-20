@@ -127,28 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <ClCompile Include="dependencies.h" />
     <ClCompile Include="My functions.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="My functions.h" />
-    <ClInclude Include="resource.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="Test1.rc" />
-=======
-    <ClCompile Include="My functions.cpp" />
-    <ClCompile Include="Test1.cpp" />
->>>>>>> 35f8d82c5dc7bae92138eb3f136fa0bb3a785abc
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="My functions.h" />
-    <ClInclude Include="resource.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="Test1.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

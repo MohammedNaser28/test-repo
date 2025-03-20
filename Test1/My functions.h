@@ -1,5 +1,4 @@
 #pragma once
-<<<<<<< HEAD
 #include "dependencies.h"
 using namespace std;
 
@@ -21,8 +20,4 @@ void greeting();
 // Write A function to add two integares
 
 // Write A function to write from a file
-=======
-#include <iostream>
-using namespace std;
-void greeting();
->>>>>>> 35f8d82c5dc7bae92138eb3f136fa0bb3a785abc
+
